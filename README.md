@@ -1,4 +1,4 @@
-# nequi-api-client-Python
+# nequi-api-client-python
 Repositorio oficial de Nequi: https://github.com/nequibc
 
 ## Ejemplo para el consumo del API de Nequi en Python
